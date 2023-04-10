@@ -2,9 +2,9 @@
 
 Автоматизированное ui-тестирование нового интерфейса авторизации в личном кабинете от заказчика Ростелеком Информационные Технологии (https://b2c.passport.rt.ru/)
 
-Тест-кейсы доступны по ссылке: https://docs.google.com/spreadsheets/d/1W4LPjmEzJtVouJ4QDtkQmUqFSHkn0lOaJLCCXogbx2w/edit?usp=sharing
+Тест-кейсы доступны по ссылке: https://docs.google.com/spreadsheets/d/1NyvLB8QG6hJnE3ic3-jKHmbhRKP6O3S4SA5u0WXcUqg/edit?usp=sharing
 
-Баг-репорты доступны по ссылке: https://docs.google.com/spreadsheets/d/1EFlbciCSjXWw7eBjyUwjK_r2AB5pb4Ok8GYgRaq6RZk/edit?usp=sharing
+Баг-репорты доступны по ссылке: https://docs.google.com/spreadsheets/d/15a4L9QbWwTx2gtWUfiQONTaLG6DXJ028VMpsLEd-3P8/edit?usp=sharing
 
 В папке pages в файле base_page.py находится конструктор webdriver и общие для всех тестируемых страниц методы.
 
